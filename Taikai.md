@@ -8,6 +8,6 @@
 
 ## 公開メモ
 
+- 公開URL: https://nagashi-studio.lolipop-now.app
 - 種別: Vite / Three.jsの静的Webアプリ
 - 保存はブラウザ内、共有はURLへデータを埋め込む方式です
-
